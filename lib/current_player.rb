@@ -5,4 +5,5 @@ def turn_count
       counter += 1
     end
   end
+  counter
 end
